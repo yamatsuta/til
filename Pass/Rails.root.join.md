@@ -37,6 +37,3 @@ render は表示方法を指定できる
 `file: ファイルパス`で指定できる。`Rails.root.join('public/403.html')`がファイルパスであることの証左
 
 
-
-***
-
